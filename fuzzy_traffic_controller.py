@@ -152,3 +152,4 @@ def fuzzy_controller_function(no_vehicles_in_red_lanes,
     output = traffic_status.output['traffic_light_signal']
     print('output ' + str(output))
     return output
+    

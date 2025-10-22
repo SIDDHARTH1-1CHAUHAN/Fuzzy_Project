@@ -73,3 +73,5 @@ def get_emv_waiting_time(vehicle_list):
     if emv_waiting_time != 0:
         return sum(emv_waiting_time)
     return 0
+
+# Made for Dr.Jasbir Kaur by Siddharth Chauhan (22105048), Saksham Gumber (22105084) and Tanish Jindal (22105092).
