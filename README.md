@@ -1,11 +1,11 @@
-````markdown
+
 # fuzzy_traffic_controller
 A fuzzy logic based traffic light controller using scikit-fuzzy and SUMO.
 This project is designed to **reduce the waiting time of emergency vehicles** at intersections by prioritizing them using a fuzzy logic algorithm integrated with SUMO simulation.
 
 ## Team Members
 1. Siddharth Chauhan (22105048)  
-2. Saksham Gumber  
+2. Saksham Gumber (22105084)
 3. Tanish Jindal (22105092)  
 
 ## Requirements
@@ -135,5 +135,4 @@ This demonstrates that **adaptive fuzzy traffic control** can efficiently manage
 * Integrate real-time traffic sensor data
 * Apply reinforcement learning to optimize fuzzy rules and membership functions
 
-```
 ```
