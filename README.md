@@ -135,4 +135,4 @@ This demonstrates that **adaptive fuzzy traffic control** can efficiently manage
 * Integrate real-time traffic sensor data
 * Apply reinforcement learning to optimize fuzzy rules and membership functions
 
-```
+
